@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "626092511584",
+    "project_id": "fir-pro24",
+    "storage_bucket": "fir-pro24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626092511584:android:591a9c6265d13cd68f4e05",
+        "android_client_info": {
+          "package_name": "com.example.firebasepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626092511584-bu2aeroihl1eaovcvuiqoe18np92vl13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasepro",
+            "certificate_hash": "bff14b25f0bbd91e3ed3b6ff61c15fecafa0008d"
+          }
+        },
+        {
+          "client_id": "626092511584-1shsef578uimvagq5nth1s6u1vtkelit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2tQEQ4q3nfdwbehQXDrL38VGE2ES9MLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626092511584-1shsef578uimvagq5nth1s6u1vtkelit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
